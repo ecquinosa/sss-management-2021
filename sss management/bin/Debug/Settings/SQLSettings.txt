@@ -1,0 +1,1 @@
+DSN: ssit|Server: m01sv431\SSIT|Username: allcard|Password: HelloSSS#88|Database: SSIT_SERVER

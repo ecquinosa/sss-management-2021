@@ -1,0 +1,40 @@
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\GRAPH\bin\Debug\netstandard2.0\GRAPH.deps.json
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\GRAPH\bin\Debug\netstandard2.0\GRAPH.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.csprojAssemblyReference.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfo.cs
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfo.cs
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\bin\Debug\netstandard2.0\GRAPH.deps.json
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\bin\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\bin\Debug\netstandard2.0\GRAPH.pdb
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\GRAPH\obj\Debug\netstandard2.0\GRAPH.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.deps.json
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfo.cs
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\bin\Debug\netstandard2.0\GRAPH.deps.json
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\bin\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\bin\Debug\netstandard2.0\GRAPH.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfo.cs
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\GRAPH\obj\Debug\netstandard2.0\GRAPH.pdb
+D:\WORK\Projects\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.deps.json
+D:\WORK\Projects\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.dll
+D:\WORK\Projects\SSS SET\GRAPH\bin\Debug\netstandard2.0\GRAPH.pdb
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.csprojAssemblyReference.cache
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfoInputs.cache
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.AssemblyInfo.cs
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.dll
+D:\WORK\Projects\SSS SET\GRAPH\obj\Debug\netstandard2.0\GRAPH.pdb

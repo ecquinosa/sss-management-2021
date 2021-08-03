@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication24", "WindowsApplication24\WindowsApplication24.vbproj", "{2E47EDE5-E19C-41C6-8782-7AF2FFC0E401}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSIT_VPN_AUTOCONNECT", "SSIT_VPN_AUTOCONNECT\SSIT_VPN_AUTOCONNECT.vdproj", "{5CF87B06-2945-4D83-804D-5AF5D1359DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E47EDE5-E19C-41C6-8782-7AF2FFC0E401}.Debug|x86.ActiveCfg = Debug|x86
+		{2E47EDE5-E19C-41C6-8782-7AF2FFC0E401}.Debug|x86.Build.0 = Debug|x86
+		{2E47EDE5-E19C-41C6-8782-7AF2FFC0E401}.Release|x86.ActiveCfg = Release|x86
+		{2E47EDE5-E19C-41C6-8782-7AF2FFC0E401}.Release|x86.Build.0 = Release|x86
+		{5CF87B06-2945-4D83-804D-5AF5D1359DDF}.Debug|x86.ActiveCfg = Debug
+		{5CF87B06-2945-4D83-804D-5AF5D1359DDF}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,767 @@
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\latest\asdasdasdasd\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\office.dll
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\bin\Debug\office.xml
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUtility.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.Cache
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\User1\Desktop\8-14-2014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUtility.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MY BURARA\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\office.dll
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\User1\Desktop\sss management\sss management\bin\Debug\office.xml
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.Cache
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\User1\Desktop\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\User1\Desktop\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\User1\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\User1\Desktop\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\sss management.exe
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\sss management.pdb
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\sss management.xml
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\office.dll
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\__SSIT RELATED\sss management\sss management\sss management\bin\Debug\office.xml
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management.vbprojResolveAssemblyReference.cache
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmORA.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.Cache
+D:\__SSIT RELATED\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\sss management.exe.config
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss management.exe
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss management.xml
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss management.pdb
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\sss management.exe
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\sss management.pdb
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\sss management.xml
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\office.dll
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\FOR SSS\sss management - edel\sss management\bin\Debug\office.xml
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management.Form1.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmORA.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+D:\FOR SSS\sss management - edel\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.Cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.vbprojAssemblyReference.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.Form1.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmORA.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss management.exe
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss management.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss management.pdb
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\sss management.exe.config
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\sss management.exe
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\sss management.pdb
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\sss management.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\stdole.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.exe.config
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.exe
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.pdb
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\FlashControlV71.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\stdole.dll
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbprojAssemblyReference.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.Form1.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmORA.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.exe
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.xml
+D:\PROGRAMMING\ALLCARD\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.exe.config
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.exe
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.pdb
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\sss management.xml
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\FlashControlV71.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Dell\Desktop\SSS-EDEL - GRAPH\sss management\obj\x86\Debug\sss_management.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\sss management.exe.config
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\sss management.exe
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\sss management.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\sss management.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\FlashControlV71.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\sss management.exe.config
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\sss management.exe
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\sss management.pdb
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\sss management.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\FlashControlV71.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmORA.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Dell\Desktop\TURN OVER\SSS SET - Copy\sss management\obj\x86\Debug\sss management.pdb
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.vbprojAssemblyReference.cache
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.Form1.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmFTP.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmIdle.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmORA.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmServerCon.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmSSITcon.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmUpload.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmAddBranch.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmFBK.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmPassword.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmPrinter.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management._frmUserType.resources
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.GenerateResource.cache
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.CoreCompileInputs.cache
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss management.exe
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss management.xml
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss management.pdb
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\sss management.exe.config
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\sss management.exe
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\sss management.pdb
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\sss management.xml
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\ShockwaveFlashObjects.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\stdole.dll
+D:\WORK\Projects\SSS SET\sss management\bin\Debug\DevComponents.DotNetBar2.xml
+D:\WORK\Projects\SSS SET\sss management\obj\x86\Debug\sss_management.vbproj.CopyComplete

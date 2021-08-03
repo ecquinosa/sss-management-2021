@@ -1,0 +1,32 @@
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\bin\Debug\WindowsApplication24.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\bin\Debug\WindowsApplication24.pdb
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\bin\Debug\WindowsApplication24.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.Resources.resources
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.exe
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.xml
+c:\users\ncjaluag\documents\visual studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.pdb
+C:\Users\NCJALUAG\Documents\Visual Studio 2010\Projects\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24._frmConnect.resources
+C:\Users\NCJALUAG\Desktop\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.exe
+C:\Users\NCJALUAG\Desktop\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.xml
+C:\Users\NCJALUAG\Desktop\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.pdb
+F:\NIKKI's FILES\FROM WORK\FROM ARGIE FOLDER\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.exe
+F:\NIKKI's FILES\FROM WORK\FROM ARGIE FOLDER\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.xml
+F:\NIKKI's FILES\FROM WORK\FROM ARGIE FOLDER\from argie\07092014\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\WindowsApplication24.pdb
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\bin\Debug\SSIT_VPN_AUTOCONNECT.exe
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\bin\Debug\SSIT_VPN_AUTOCONNECT.pdb
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\bin\Debug\SSIT_VPN_AUTOCONNECT.xml
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT._frmConnect.resources
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT.Resources.resources
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT.exe
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT.xml
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT.pdb
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT._frmSaveConfig.resources
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT._frmTest.resources
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\bin\Debug\SSIT_VPN_AUTOCONNECT.exe.config
+D:\FOR SSS\AUTOCONNECT VPN\WindowsApplication24\WindowsApplication24\obj\x86\Debug\SSIT_VPN_AUTOCONNECT.Form1.resources

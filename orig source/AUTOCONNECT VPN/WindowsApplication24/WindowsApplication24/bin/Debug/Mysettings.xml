@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Settings.-->
+<Configuration>
+  <Settings>
+    <VPN_USERNAME>ssit_test</VPN_USERNAME>
+    <VPN_PASSWORD>t3rminal</VPN_PASSWORD>
+  </Settings>
+</Configuration>

@@ -1,0 +1,1 @@
+DSN: ssit|Server: 10.0.202.95|Username: sa|Password: password2013|Database: SSIT_SERVER

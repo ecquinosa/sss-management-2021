@@ -1,0 +1,2501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AF83ADD9-F8FA-4AC7-B7FD-A1A510BA63EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>sss_management.My.MyApplication</StartupObject>
+    <RootNamespace>sss_management</RootNamespace>
+    <AssemblyName>sss management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>sss management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>sss management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.121.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Class\auditModule.vb" />
+    <Compile Include="Class\ConnectionString.vb" />
+    <Compile Include="Class\Constring.vb" />
+    <Compile Include="Class\GenerateMonReport.vb" />
+    <Compile Include="Class\IdleTime.vb" />
+    <Compile Include="Class\mgmtRegistration.vb" />
+    <Compile Include="Class\modFTP.vb" />
+    <Compile Include="Class\RijndaelSimple.vb" />
+    <Compile Include="Class\UploadFTP.vb" />
+    <Compile Include="Class\userRole.vb" />
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\_frmDashboard.Designer.vb">
+      <DependentUpon>_frmDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\_frmDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\_frmKiosk.Designer.vb">
+      <DependentUpon>_frmKiosk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\_frmKiosk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMS\_frmMonitoring.Designer.vb">
+      <DependentUpon>_frmMonitoring.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FORMS\_frmMonitoring.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main forms\_frmLogin.Designer.vb">
+      <DependentUpon>_frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main forms\_frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPDEPDIV.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPDEPDIV.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPDEPGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPDEPGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CHANGEOFADDGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CHANGEOFADDGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CITIZENSGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CITIZENSGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\PRNAPPALL.vb">
+      <DependentUpon>PRNAPPALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\PRNall.vb">
+      <DependentUpon>PRNall.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBKBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBKBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRALLWEEKLY.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGTRALLWEEKLY.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\HitCluster.vb">
+      <DependentUpon>HitCluster.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\HitsBranch.vb">
+      <DependentUpon>HitsBranch.rpt</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeDaily.vb">
+      <DependentUpon>NewDowntimeDaily.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeMonthlyAll.vb">
+      <DependentUpon>NewDowntimeMonthlyAll.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\REGBRANCH.vb">
+      <DependentUpon>REGBRANCH.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANALLALL.vb">
+      <DependentUpon>SALLOANALLALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANEMPALL.vb">
+      <DependentUpon>SALLOANEMPALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SICKMATALL.vb">
+      <DependentUpon>SICKMATALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SICKMATBRANCH.vb">
+      <DependentUpon>SICKMATBRANCH.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SICKMATGROUP.vb">
+      <DependentUpon>SICKMATGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDCARDCLUSTER.vb">
+      <DependentUpon>SSIDCARDCLUSTER.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDLOGSBRANCH.vb">
+      <DependentUpon>SSIDLOGSBRANCH.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDLOGSCLUSTER.vb">
+      <DependentUpon>SSIDLOGSCLUSTER.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDLOGSGROUP.vb">
+      <DependentUpon>SSIDLOGSGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDREASONSALL.vb">
+      <DependentUpon>SSIDREASONSALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDREASONSBRANCH.vb">
+      <DependentUpon>SSIDREASONSBRANCH.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDREASONSGROUP.vb">
+      <DependentUpon>SSIDREASONSGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSSIDCARDGROUP.vb">
+      <DependentUpon>SSSIDCARDGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCFAILEDALL.vb">
+      <DependentUpon>SUCFAILEDALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHREGALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHREGALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETLUMPALL.vb">
+      <DependentUpon>TECHRETLUMPALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETLUMPGROUP.vb">
+      <DependentUpon>TECHRETLUMPGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETREGALL.vb">
+      <DependentUpon>TECHRETREGALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TOTALLALL.vb">
+      <DependentUpon>TOTALLALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TOTALLALLCLUSTER.vb">
+      <DependentUpon>TOTALLALLCLUSTER.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRALLYEARLY.vb">
+      <DependentUpon>FIGTRALLYEARLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRBRYEARLY.vb">
+      <DependentUpon>FIGTRBRYEARLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRCLSTRYEARLY.vb">
+      <DependentUpon>FIGTRCLSTRYEARLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRGRPYEARLY.vb">
+      <DependentUpon>FIGTRGRPYEARLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRALLMONTHLY.vb">
+      <DependentUpon>FIGTRALLMONTHLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRBRMONTHLY.vb">
+      <DependentUpon>FIGTRBRMONTHLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRCLSTMONTHLY.vb">
+      <DependentUpon>FIGTRCLSTMONTHLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRGRPMONTHLY.vb">
+      <DependentUpon>FIGTRGRPMONTHLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRCLSTWEEKLY.vb">
+      <DependentUpon>FIGTRCLSTWEEKLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRBRWEEKLY.vb">
+      <DependentUpon>FIGTRBRWEEKLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRGRPWEEKLY.vb">
+      <DependentUpon>FIGTRGRPWEEKLY.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRALL.vb">
+      <DependentUpon>FIGTRALL.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRBR.vb">
+      <DependentUpon>FIGTRBR.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRCLSTR.vb">
+      <DependentUpon>FIGTRCLSTR.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\FIGTRGRP.vb">
+      <DependentUpon>FIGTRGRP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKKIOSK.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKKIOSK.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SICKMATCLUSTER.vb">
+      <DependentUpon>SICKMATCLUSTER.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\DDRFuneralCluster.vb">
+      <DependentUpon>DDRFuneralCluster.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\DDRFuneralAll.vb">
+      <DependentUpon>DDRFuneralAll.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\DDRFuneralBranch.vb">
+      <DependentUpon>DDRFuneralBranch.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\DDRFuneralGroup.vb">
+      <DependentUpon>DDRFuneralGroup.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\EligibilityCluster.vb">
+      <DependentUpon>EligibilityCluster.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\Eligibilityall.vb">
+      <DependentUpon>Eligibilityall.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\EligibilityBranch.vb">
+      <DependentUpon>EligibilityBranch.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\EligibilityGroup.vb">
+      <DependentUpon>EligibilityGroup.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\OnlineInquiryCluster.vb">
+      <DependentUpon>OnlineInquiryCluster.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\OnlineInquiryall.vb">
+      <DependentUpon>OnlineInquiryall.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\OnlineInquiryBranch.vb">
+      <DependentUpon>OnlineInquiryBranch.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\OnlineInquiryGroup.vb">
+      <DependentUpon>OnlineInquiryGroup.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\TOTALALLGROUP.vb">
+      <DependentUpon>TOTALALLGROUP.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeMonthlyBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeMonthlyBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeMonthlyCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeMonthlyCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeMonthlyGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeMonthlyGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeWeeklyGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeWeeklyGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeDailyCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeDailyCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeDailyBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeDailyBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeDailyGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeDailyGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeWeeklyall.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeWeeklyall.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeWeeklyBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeWeeklyBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeWeeklyCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeWeeklyCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeYearlyall.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeYearlyall.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeYearlyBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeYearlyBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeYearlyCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeYearlyCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewDowntimeYearlyGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewDowntimeYearlyGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NEWTECHRETALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NEWTECHRETALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FAILEDTRANSGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FAILEDTRANSGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKKIOSKGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKKIOSKGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKWEBSITEGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKWEBSITEGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPDEPCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPDEPCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPDEPGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPDEPGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFAILGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFAILGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBKGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBKGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGREGGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGREGGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTECHRET.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGTECHRET.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTECHRETBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGTECHRETBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTECHRETCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGTECHRETCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGTECHRETGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGTECHRETGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FREGGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FREGGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\HitsAll.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HitsAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\HitsGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HitsGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\KioskList.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KioskList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\KioskMonitoring.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KioskMonitoring.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\KioskMonitoringDivision.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KioskMonitoringDivision.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MATNOTIFGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MATNOTIFGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MonitoringKioskStatus.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonitoringKioskStatus.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MonitoringStatus.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonitoringStatus.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewMonitoringAll.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewMonitoringAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewMonitoringBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewMonitoringBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewMonitoringCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewMonitoringCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NewMonitoringGroup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewMonitoringGroup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NEWTECHRETBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NEWTECHRETBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NEWTECHRETCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NEWTECHRETCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\NEWTECHRETGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NEWTECHRETGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANALLGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANALLGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANEMPGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANEMPGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANOFWGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANOFWGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANSEGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANSEGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANVOLGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANVOLGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\REGGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REGGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDALLGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDALLGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDLOGSALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDLOGSALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDREASONSCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDREASONSCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCCESSTRANSGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCCESSTRANSGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCFAILEDBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCFAILEDBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCFAILEDCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCFAILEDCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCFAILEDGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCFAILEDGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETREGGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHRETREGGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPDEPALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPDEPALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGACOPDEPBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGACOPDEPBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFAILALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFAILALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFAILBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFAILBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFAILCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFAILCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFB.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFB.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBK.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBK.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGFBKCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGFBKCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGREGALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGREGALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGREGBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGREGBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FIGREGCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FIGREGCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\PRINTKIOSKFB.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PRINTKIOSKFB.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\PRINTKIOSKWEB.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PRINTKIOSKWEB.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Main forms\_frmMain.Designer.vb">
+      <DependentUpon>_frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main forms\_frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="REPORTS\ACOPALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPDEPALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPDEPALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\ACOPDEPBR.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ACOPDEPBR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CHANGEOFADDALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CHANGEOFADDALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CHANGEOFADDBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CHANGEOFADDBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CHANGEOFADDCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CHANGEOFADDCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CITIZENALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CITIZENALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CITIZENSBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CITIZENSBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\CITIZENSCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CITIZENSCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FAILEDTRANSALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FAILEDTRANSALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FAILEDTRANSBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FAILEDTRANSBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FAILEDTRANSCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FAILEDTRANSCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKKIOSKBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKKIOSKBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKKIOSKCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKKIOSKCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKWEB.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKWEB.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKWEBSITEBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKWEBSITEBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FEEDBACKWEBSITECLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FEEDBACKWEBSITECLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FREGALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FREGALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FREGBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FREGBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FREGCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FREGCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\FTPTRANS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FTPTRANS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\KioskStatusAll.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KioskStatusAll.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MATNOTIFALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MATNOTIFALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MATNOTIFBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MATNOTIFBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MATNOTIFCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MATNOTIFCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\MonthyDowntimeRpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MonthyDowntimeRpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\REGALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REGALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\REGCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>REGCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANALLBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANALLBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANALLCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANALLCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANEMPBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANEMPBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANEMPCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANEMPCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANOFWALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANOFWALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANOFWBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANOFWBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANOFWCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANOFWCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANSEALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANSEALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANSEBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANSEBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANSECLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANSECLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANVOBCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANVOBCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANVOLALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANVOLALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SALLOANVOLBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SALLOANVOLBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDALLBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDALLBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDALLCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDALLCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDCARDALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDCARDALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSIDCARDBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSIDCARDBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SSSIDCARD.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SSSIDCARD.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCCESSTRANSALL.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCCESSTRANSALL.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCCESSTRANSBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCCESSTRANSBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\SUCCESSTRANSCLUSTER.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SUCCESSTRANSCLUSTER.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHRETCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETLUMPBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHRETLUMPBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETLUMPCLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHRETLUMPCLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\TECHRETREGBRANCH.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHRETREGBRANCH.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\UPDATE.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UPDATE.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\UPDATEBR.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UPDATEBR.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\UPDATECLUST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UPDATECLUST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\UPDATEGROUP.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UPDATEGROUP.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\WebAccessBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebAccessBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\WebLogBranch.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebLogBranch.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\WebLogCluster.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebLogCluster.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\WebLogReports.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WebLogReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\WEBSITEACCESS.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WEBSITEACCESS.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="REPORTS\_frmBlock.Designer.vb">
+      <DependentUpon>_frmBlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTS\_frmBlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPORTS\_frmViewReports.Designer.vb">
+      <DependentUpon>_frmViewReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="REPORTS\_frmViewReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="Settings\_frmFTP.Designer.vb">
+      <DependentUpon>_frmFTP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmFTP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmIdle.Designer.vb">
+      <DependentUpon>_frmIdle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmIdle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmORA.Designer.vb">
+      <DependentUpon>_frmORA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmORA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmServerCon.Designer.vb">
+      <DependentUpon>_frmServerCon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmServerCon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmSettings.Designer.vb">
+      <DependentUpon>_frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmSSITcon.Designer.vb">
+      <DependentUpon>_frmSSITcon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmSSITcon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\_frmUpload.Designer.vb">
+      <DependentUpon>_frmUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\_frmUpload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmAddBranch.Designer.vb">
+      <DependentUpon>_frmAddBranch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmAddBranch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmChangePassLogin.Designer.vb">
+      <DependentUpon>_frmChangePassLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmChangePassLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmExportReport.Designer.vb">
+      <DependentUpon>_frmExportReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmExportReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmFBK.Designer.vb">
+      <DependentUpon>_frmFBK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmFBK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmForgotPass.Designer.vb">
+      <DependentUpon>_frmForgotPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmForgotPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmLoading.Designer.vb">
+      <DependentUpon>_frmLoading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmLoading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmPassword.Designer.vb">
+      <DependentUpon>_frmPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmPrinter.Designer.vb">
+      <DependentUpon>_frmPrinter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmPrinter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserRegistration.Designer.vb">
+      <DependentUpon>_frmUserRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserRole.Designer.vb">
+      <DependentUpon>_frmUserRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserType.Designer.vb">
+      <DependentUpon>_frmUserType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sub forms\_frmUserType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\_frmDashboard.resx">
+      <DependentUpon>_frmDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\_frmKiosk.resx">
+      <DependentUpon>_frmKiosk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMS\_frmMonitoring.resx">
+      <DependentUpon>_frmMonitoring.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main forms\_frmLogin.resx">
+      <DependentUpon>_frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPDEPDIV.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPDEPDIV.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPDEPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPDEPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CHANGEOFADDGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CHANGEOFADDGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CITIZENSGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CITIZENSGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\PRNAPPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PRNAPPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\PRNall.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PRNall.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBKBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBKBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRALLWEEKLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRALLWEEKLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\HitCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HitCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\HitsBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HitsBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeDaily.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeDaily.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeMonthlyAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeMonthlyAll.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\REGBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REGBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANALLALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANALLALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANEMPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANEMPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SICKMATALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SICKMATALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SICKMATBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SICKMATBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SICKMATGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SICKMATGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDCARDCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDCARDCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDLOGSBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDLOGSBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDLOGSCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDLOGSCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDLOGSGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDLOGSGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDREASONSALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDREASONSALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDREASONSBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDREASONSBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDREASONSGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDREASONSGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSSIDCARDGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSSIDCARDGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCFAILEDALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCFAILEDALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHREGALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHREGALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETLUMPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETLUMPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETLUMPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETLUMPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETREGALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETREGALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TOTALLALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TOTALLALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TOTALLALLCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TOTALLALLCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRALLYEARLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRALLYEARLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRBRYEARLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRBRYEARLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRCLSTRYEARLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRCLSTRYEARLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRGRPYEARLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRGRPYEARLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRALLMONTHLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRALLMONTHLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRBRMONTHLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRBRMONTHLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRCLSTMONTHLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRCLSTMONTHLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRGRPMONTHLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRGRPMONTHLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRCLSTWEEKLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRCLSTWEEKLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRBRWEEKLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRBRWEEKLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRGRPWEEKLY.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRGRPWEEKLY.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRBR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRBR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRCLSTR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRCLSTR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTRGRP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTRGRP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKKIOSK.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKKIOSK.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SICKMATCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SICKMATCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\DDRFuneralCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DDRFuneralCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\DDRFuneralAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DDRFuneralAll.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\DDRFuneralBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DDRFuneralBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\DDRFuneralGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DDRFuneralGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\EligibilityCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EligibilityCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\Eligibilityall.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Eligibilityall.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\EligibilityBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EligibilityBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\EligibilityGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EligibilityGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\OnlineInquiryCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OnlineInquiryCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\OnlineInquiryall.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OnlineInquiryall.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\OnlineInquiryBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OnlineInquiryBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\OnlineInquiryGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OnlineInquiryGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TOTALALLGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TOTALALLGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeMonthlyBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeMonthlyBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeMonthlyCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeMonthlyCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeMonthlyGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeMonthlyGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeWeeklyGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeWeeklyGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeDailyCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeDailyCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeDailyBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeDailyBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeDailyGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeDailyGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeWeeklyall.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeWeeklyall.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeWeeklyBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeWeeklyBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeWeeklyCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeWeeklyCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeYearlyall.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeYearlyall.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeYearlyBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeYearlyBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeYearlyCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeYearlyCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewDowntimeYearlyGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewDowntimeYearlyGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NEWTECHRETALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NEWTECHRETALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FAILEDTRANSGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FAILEDTRANSGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKKIOSKGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKKIOSKGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKWEBSITEGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKWEBSITEGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPDEPCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPDEPCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPDEPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPDEPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFAILGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFAILGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBKGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBKGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGREGGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGREGGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTECHRET.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTECHRET.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTECHRETBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTECHRETBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTECHRETCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTECHRETCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGTECHRETGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGTECHRETGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FREGGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FREGGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\HitsAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HitsAll.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\HitsGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HitsGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\KioskList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KioskList.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\KioskMonitoring.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KioskMonitoring.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\KioskMonitoringDivision.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KioskMonitoringDivision.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MATNOTIFGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MATNOTIFGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MonitoringKioskStatus.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MonitoringKioskStatus.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MonitoringStatus.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MonitoringStatus.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewMonitoringAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewMonitoringAll.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewMonitoringBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewMonitoringBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewMonitoringCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewMonitoringCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NewMonitoringGroup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewMonitoringGroup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NEWTECHRETBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NEWTECHRETBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NEWTECHRETCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NEWTECHRETCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\NEWTECHRETGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NEWTECHRETGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANALLGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANALLGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANEMPGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANEMPGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANOFWGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANOFWGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANSEGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANSEGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANVOLGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANVOLGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\REGGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REGGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDALLGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDALLGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDLOGSALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDLOGSALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDREASONSCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDREASONSCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCCESSTRANSGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCCESSTRANSGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCFAILEDBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCFAILEDBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCFAILEDCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCFAILEDCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCFAILEDGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCFAILEDGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETREGGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETREGGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPDEPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPDEPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGACOPDEPBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGACOPDEPBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFAILALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFAILALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFAILBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFAILBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFAILCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFAILCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFB.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFB.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBK.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBK.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGFBKCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGFBKCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGREGALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGREGALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGREGBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGREGBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FIGREGCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FIGREGCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\PRINTKIOSKFB.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PRINTKIOSKFB.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\PRINTKIOSKWEB.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PRINTKIOSKWEB.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main forms\_frmMain.resx">
+      <DependentUpon>_frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPDEPALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPDEPALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\ACOPDEPBR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ACOPDEPBR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CHANGEOFADDALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CHANGEOFADDALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CHANGEOFADDBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CHANGEOFADDBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CHANGEOFADDCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CHANGEOFADDCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CITIZENALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CITIZENALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CITIZENSBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CITIZENSBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\CITIZENSCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CITIZENSCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FAILEDTRANSALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FAILEDTRANSALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FAILEDTRANSBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FAILEDTRANSBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FAILEDTRANSCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FAILEDTRANSCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKKIOSKBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKKIOSKBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKKIOSKCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKKIOSKCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKWEB.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKWEB.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKWEBSITEBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKWEBSITEBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FEEDBACKWEBSITECLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FEEDBACKWEBSITECLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FREGALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FREGALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FREGBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FREGBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FREGCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FREGCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\FTPTRANS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FTPTRANS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\KioskStatusAll.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>KioskStatusAll.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MATNOTIFALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MATNOTIFALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MATNOTIFBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MATNOTIFBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MATNOTIFCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MATNOTIFCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\MonthyDowntimeRpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MonthyDowntimeRpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\REGALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REGALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\REGCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>REGCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANALLBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANALLBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANALLCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANALLCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANEMPBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANEMPBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANEMPCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANEMPCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANOFWALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANOFWALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANOFWBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANOFWBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANOFWCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANOFWCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANSEALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANSEALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANSEBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANSEBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANSECLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANSECLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANVOBCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANVOBCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANVOLALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANVOLALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SALLOANVOLBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SALLOANVOLBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDALLBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDALLBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDALLCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDALLCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDCARDALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDCARDALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSIDCARDBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSIDCARDBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SSSIDCARD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SSSIDCARD.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCCESSTRANSALL.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCCESSTRANSALL.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCCESSTRANSBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCCESSTRANSBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\SUCCESSTRANSCLUSTER.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SUCCESSTRANSCLUSTER.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETLUMPBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETLUMPBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETLUMPCLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETLUMPCLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\TECHRETREGBRANCH.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TECHRETREGBRANCH.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\UPDATE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UPDATE.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\UPDATEBR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UPDATEBR.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\UPDATECLUST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UPDATECLUST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\UPDATEGROUP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UPDATEGROUP.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\WebAccessBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebAccessBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\WebLogBranch.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebLogBranch.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\WebLogCluster.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebLogCluster.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\WebLogReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WebLogReports.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\WEBSITEACCESS.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WEBSITEACCESS.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\_frmBlock.resx">
+      <DependentUpon>_frmBlock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPORTS\_frmViewReports.resx">
+      <DependentUpon>_frmViewReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmFTP.resx">
+      <DependentUpon>_frmFTP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmIdle.resx">
+      <DependentUpon>_frmIdle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmORA.resx">
+      <DependentUpon>_frmORA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmServerCon.resx">
+      <DependentUpon>_frmServerCon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmSettings.resx">
+      <DependentUpon>_frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmSSITcon.resx">
+      <DependentUpon>_frmSSITcon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\_frmUpload.resx">
+      <DependentUpon>_frmUpload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmAddBranch.resx">
+      <DependentUpon>_frmAddBranch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmChangePassLogin.resx">
+      <DependentUpon>_frmChangePassLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmExportReport.resx">
+      <DependentUpon>_frmExportReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmFBK.resx">
+      <DependentUpon>_frmFBK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmForgotPass.resx">
+      <DependentUpon>_frmForgotPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmLoading.resx">
+      <DependentUpon>_frmLoading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmPassword.resx">
+      <DependentUpon>_frmPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmPrinter.resx">
+      <DependentUpon>_frmPrinter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmUserRegistration.resx">
+      <DependentUpon>_frmUserRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmUserRole.resx">
+      <DependentUpon>_frmUserRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub forms\_frmUserType.resx">
+      <DependentUpon>_frmUserType.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USER ROLE50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UROLE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UROLE40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USER ROLE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USER ROLE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ADD USER.png" />
+    <Content Include="Resources\ADD USER1.png" />
+    <Content Include="Resources\ADD USER60.png" />
+    <Content Include="Resources\back.png" />
+    <None Include="Resources\back1.png" />
+    <Content Include="Resources\DATABASE SETTINGS.png" />
+    <Content Include="Resources\Fasticon-Servers-Web-server.ico" />
+    <Content Include="Resources\KIOSK.png" />
+    <Content Include="Resources\KIOSK40.png" />
+    <Content Include="Resources\MONITORING.png" />
+    <Content Include="Resources\PC.png" />
+    <None Include="Resources\REPORTSSS MANAGEMENT SERVER.png" />
+    <Content Include="Resources\SETTINGS SYSTEM.png" />
+    <Content Include="Resources\SETTINGS.png" />
+    <Content Include="Resources\SSS  LOGO.png" />
+    <None Include="Resources\ULOGOUT1.png" />
+    <None Include="Resources\title11.png" />
+    <Content Include="Resources\title1.png" />
+    <None Include="Resources\title12.png" />
+    <None Include="Resources\Untitled.png" />
+    <None Include="Resources\Untitled1.png" />
+    <None Include="Resources\Untitled %282%29.png" />
+    <Content Include="Resources\USER SETTINGS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

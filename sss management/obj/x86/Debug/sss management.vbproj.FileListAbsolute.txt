@@ -1,0 +1,482 @@
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\bin\Debug\sss management.exe.config
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\bin\Debug\sss management.exe
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\bin\Debug\sss management.pdb
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\bin\Debug\sss management.xml
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss management.exe
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss management.xml
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss management.pdb
+c:\users\oracle\documents\visual studio 2010\Projects\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\NCJALUAG\Desktop\JEan\SS MANAGEMENT\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\for sss\april 7\sss management\sss management\bin\Debug\sss management.exe.config
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss management.exe
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss management.xml
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss management.pdb
+D:\for sss\april 7\sss management\sss management\bin\Debug\sss management.exe
+D:\for sss\april 7\sss management\sss management\bin\Debug\sss management.pdb
+D:\for sss\april 7\sss management\sss management\bin\Debug\sss management.xml
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss management.vbproj.GenerateResource.Cache
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+D:\for sss\april 7\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 472014\new new\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT SERVER 04082014\04102014\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\office.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\bin\Debug\office.xml
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\NCJALUAG\Desktop\from argie\SS MANAGEMENT 04162014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+\\10.0.202.95\Users\Public\shared\nikki\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\sss management.exe.config
+\\10.0.202.95\Users\Public\shared\nikki\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.exe
+\\10.0.202.95\Users\Public\shared\nikki\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.xml
+\\10.0.202.95\Users\Public\shared\nikki\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\MANAGEMENT SERVER 04222014\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\04-29-2014\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-06-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-07-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\5-13-2014\sss management\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmViewChartReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewChartReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\5-30-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewChartReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewChartReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\6-6-2014\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe.config
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.pdb
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\office.dll
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\bin\Debug\office.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Form1.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDashboard.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmKiosk.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMonitoring.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmMain.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management.Resources.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmViewReports.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmDBSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmSettings.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddPosition.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmAddUserType.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmBlock.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmChangePassLogin.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmExportReport.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmForgotPass.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmLoading.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRegistration.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss_management._frmUserRole.resources
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.exe
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.xml
+C:\Users\Oracle\Desktop\05-14-2014\sss management\sss management\sss management\sss management\obj\x86\Debug\sss management.pdb

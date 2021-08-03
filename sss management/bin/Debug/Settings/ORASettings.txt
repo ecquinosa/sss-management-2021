@@ -1,0 +1,1 @@
+Host: 10.101.141.217|Port: 1521|UserID: mo0ikw01|Password: Mo0ikw01_Ssit|Service: mo0cs1p
